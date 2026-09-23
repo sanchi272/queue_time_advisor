@@ -132,7 +132,7 @@ GitHub Repository:
 
 https://github.com/sanchi272/queue_time_advisor
 
-<b>11) Student Details
+<b>11) Student Details</b>
 
 Name: Sanchi Sorte
 Roll Number: 19056

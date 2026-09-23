@@ -38,8 +38,7 @@ The application is developed using Python and Streamlit and is deployed using St
 - Deployment: Streamlit Community Cloud
 
 4) Project Structure
-
-'''
+<pre>
 queue_time_advisor/
 │
 ├── app.py
@@ -50,7 +49,7 @@ queue_time_advisor/
 ├── test_llm.py
 ├── .gitignore
 └── README.md
-'''
+</pre>
 
 5) Installation and Setup
 

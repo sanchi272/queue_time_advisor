@@ -49,8 +49,8 @@ queue_time_advisor/
 ├── test_fuzzy.py
 ├── test_llm.py
 ├── .gitignore
-'''
 └── README.md
+'''
 
 5) Installation and Setup
 

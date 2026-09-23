@@ -1,6 +1,6 @@
-AI-Based Smart Queue Waiting Time Advisor
+<b>AI-Based Smart Queue Waiting Time Advisor</b>
 
-1) Project Description
+<b>1) Project Description</b>
 
 The AI-Based Smart Queue Waiting Time Advisor is a web-based application that estimates the waiting time of a queue using LangChain, Gemini AI, and Fuzzy Logic.
 
@@ -8,7 +8,7 @@ The user can describe the queue in simple natural language, such as the number o
 
 The application is developed using Python and Streamlit and is deployed using Streamlit Community Cloud.
 
-2) Main Features
+<b>2) Main Features</b>
 
 - Accepts queue information in natural language.
 - Uses LangChain and Gemini AI to extract queue details.
@@ -23,7 +23,7 @@ The application is developed using Python and Streamlit and is deployed using St
 - Provides a simple Streamlit web interface.
 - Hosted online using Streamlit Community Cloud.
 
-3) Technologies / Tech Stack
+<b>3) Technologies / Tech Stack</b>
 
 - Programming Language: Python
 - AI / LLM: Google Gemini
@@ -37,7 +37,7 @@ The application is developed using Python and Streamlit and is deployed using St
 - Version Control: Git and GitHub
 - Deployment: Streamlit Community Cloud
 
-4) Project Structure
+<b>4) Project Structure</b>
 <pre>
 queue_time_advisor/
 │
@@ -51,7 +51,7 @@ queue_time_advisor/
 └── README.md
 </pre>
 
-5) Installation and Setup
+<b>5) Installation and Setup</b>
 
 1. Clone the Repository
 
@@ -75,7 +75,7 @@ GOOGLE_API_KEY="YOUR_GEMINI_API_KEY"
 
 For the deployed application, the API key is added through Streamlit Secrets.
 
-6) How to Run the Project
+<b>6) How to Run the Project</b>
 
 Run the Streamlit application using:
 
@@ -83,7 +83,7 @@ python -m streamlit run app.py
 
 The application will open in the web browser.
 
-7) How to Use the Application
+<b>7) How to Use the Application</b>
 
 1. Open the Smart Queue Waiting Time Advisor.
 2. Enter a description of the queue in natural language.
@@ -105,7 +105,7 @@ Active counters: 2
 
 Estimated Waiting Time: Approximately 45.0 minutes
 
-8) Environment Variables
+<b>8) Environment Variables</b>
 
 The project uses the following environment variable:
 
@@ -113,7 +113,7 @@ GOOGLE_API_KEY
 
 The actual API key is kept private and is not included in the GitHub repository.
 
-9) Screenshots
+<b>9) Screenshots</b>
 
 Screenshots of the working application can be added here to demonstrate:
 
@@ -122,7 +122,7 @@ Screenshots of the working application can be added here to demonstrate:
 - Extracted queue information
 - Estimated waiting time result
 
-10) Live Deployment
+<b>10) Live Deployment</b>
 
 Live Application:
 
@@ -132,7 +132,7 @@ GitHub Repository:
 
 https://github.com/sanchi272/queue_time_advisor
 
-11) Student Details
+<b>11) Student Details
 
 Name: Sanchi Sorte
 Roll Number: 19056

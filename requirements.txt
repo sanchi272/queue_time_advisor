@@ -2,6 +2,7 @@ streamlit
 scikit-fuzzy
 numpy
 scipy
+networkx
 python-dotenv
 langchain
 langchain-openai
